@@ -7,7 +7,7 @@
 	WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. - See the 
 	License for the specific language governing permissions and - limitations 
 	under the License. -->
-<!DOCTYPE mycat:server SYSTEM "server.dtd">
+<!DOCTYPE mycat:server SYSTEM "F:\java\Mycat-Server\src\main\resources\server.dtd">
 <mycat:server xmlns:mycat="http://io.mycat/">
 	<system>
 	<property name="useSqlStat">1</property>  <!-- 1为开启实时统计、0为关闭 -->

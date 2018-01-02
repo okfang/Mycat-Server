@@ -13,7 +13,7 @@
  - See the License for the specific language governing permissions and
  - limitations under the License.
 -->
-<!DOCTYPE mycat:rule SYSTEM "rule.dtd">
+<!DOCTYPE mycat:rule SYSTEM "F:\java\Mycat-Server\src\main\resources\rule.dtd">
 <mycat:rule xmlns:mycat="http://io.mycat/">
 
   <!-- 路由规则定义，定义什么表，什么字段，采用什么路由算法 -->

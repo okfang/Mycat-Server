@@ -7,7 +7,7 @@
 	WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. - See the 
 	License for the specific language governing permissions and - limitations 
 	under the License. -->
-<!DOCTYPE mycat:rule SYSTEM "rule.dtd">
+<!DOCTYPE mycat:rule SYSTEM "F:\java\Mycat-Server\src\main\resources\rule.dtd">
 <mycat:rule xmlns:mycat="http://io.mycat/">
 	<tableRule name="rule1">
 		<rule>

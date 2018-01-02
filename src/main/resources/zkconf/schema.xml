@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE mycat:schema SYSTEM "schema.dtd">
+<!DOCTYPE mycat:schema SYSTEM "F:\java\Mycat-Server\src\main\resources\schema.dtd">
 <mycat:schema xmlns:mycat="http://io.mycat/">
 
 	<schema name="TESTDB" checkSQLschema="false" sqlMaxLimit="100">
